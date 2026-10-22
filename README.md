@@ -29,6 +29,8 @@
 - [🏢 Open-Source Device Farms & Self-Hosted Labs](#-open-source-device-farms--self-hosted-labs)
 - [🍎 Native First-Party Testing Toolchains](#-native-first-party-testing-toolchains)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [📜 License](#-license)
 
 ---
@@ -119,6 +121,25 @@ Contributions are warmly welcomed! Help keep this awesome list comprehensive, ac
 3. 📝 Add your open-source tool, device farm, or SaaS platform with accurate specs and star badge.
 4. 🚀 Commit your changes: `git commit -m "Add <Tool-Name> to mobile testing list"`.
 5. 🔀 Open a pull request against `main`.
+
+---
+
+## 💖 Support
+
+Thank you for exploring and utilizing **Awesome-Mobile-App-Testing**! 🌟
+
+If you found this resource helpful, please consider:
+- ⭐ **Starring** the repository on GitHub
+- 🍴 **Forking** it and adding your favorite tools
+- 📢 **Sharing** it with fellow QA engineers, mobile developers, and DevOps teammates
+- ☕ Buying me a coffee by supporting on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)
+
+Your support motivates continuous curation and maintenance of this list!
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Mobile-App-Testing&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Mobile-App-Testing&type=date&legend=top-left)
 
 ---
 
